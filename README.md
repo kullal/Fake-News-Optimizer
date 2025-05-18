@@ -1,4 +1,4 @@
-# Optimizer Berita Palsu
+# Fake News Optimizer
 
 Proyek ini menganalisis dan mengoptimalkan kumpulan data berita palsu menggunakan berbagai algoritma pembelajaran mesin untuk meningkatkan deteksi berita palsu.
 
@@ -89,7 +89,7 @@ Model-model dievaluasi menggunakan:
 
 ## Penulis
 
-[Nama Anda]
+Riski Yuniar
 
 ## Lisensi
 
